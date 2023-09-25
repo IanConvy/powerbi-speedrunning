@@ -7,3 +7,5 @@ and speedruns can be requested. The PowerBI report, which can be fully viewed by
 PowerBI Desktop or viewed in a static form from `speedruns.pdf`, is built atop an exhaustive dataset consisting of
 all users, games, platforms, and speedruns hosted on www.speedrun.com. The code used to retrieve and store this data
 can be found in `scrape.py`.
+
+A walkthrough of each report page, along with excerpts from its underlying DAX code, can be found on [my website](https://ianconvy.github.io/projects/other/speedrunning/speedrunning.html).
